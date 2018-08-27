@@ -5,7 +5,6 @@ Learn more about district0x here: https://education.district0x.io/
 
 If you have a project you need help with, are looking for work, or simply want to collaborate with other people, feel free to select a role in the 'GET STARTED sections below to give people a better idea of your skills. If you feel none of the roles fit you, you can reach out to a moderator about creating one that will. 
 
-—————————
 :question: PURPOSE :question: 
 —————————
 The purpose of this project is to coordinate pools of talent and resources for teams developing new projects called “Sessions”. 
