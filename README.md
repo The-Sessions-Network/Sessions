@@ -13,6 +13,6 @@ If you have a project you need help with, are looking for work, or simply want t
 
 The purpose of this project is to coordinate pools of talent and resources for teams developing new projects called “Sessions”. 
 
-‘Sessions’ are open collaborative projects curated, funded and developed by the community. You can propose a new development Sessions on our Github: . 
+‘Sessions’ are open collaborative projects curated, funded and developed by the community. You can propose a new development Sessions in the 'Issues' section: https://github.com/The-Sessions-Network/Sessions/issues. 
 
 This project’s primary goal is to offer assistance and resources in areas such as product, management, funding, cross-promotion, partner acquisition, digital rights management, monetization/sales, and audience development" in exchange for work, collaborative contributions, donations and volunteering. 
