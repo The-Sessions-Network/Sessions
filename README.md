@@ -17,4 +17,4 @@
 
 ## GET **STARTED**
 
-## [Propose a Sessions](https://github.com/The-Sessions-Network/Sessions/issues/new)
+## [Propose a Session](https://github.com/The-Sessions-Network/Sessions/issues/new)
