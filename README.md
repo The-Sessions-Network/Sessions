@@ -18,9 +18,9 @@
 ## GET **STARTED**
 ---
 
-### Have a project you want to propose?
+### Have a project you want to submit?
 #### 🔘[Propose a Session](https://github.com/The-Sessions-Network/Sessions/issues/new)
 
-## New and want to learn more?
+### New and want to learn more?
 #### 🔘[Join the 'Discord' community](http://bit.ly/Sessions-Discord)
 
