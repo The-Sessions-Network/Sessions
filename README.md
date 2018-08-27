@@ -4,7 +4,7 @@
 
 ### Learn more about district0x here: https://education.district0x.io/
 
-#### If you have a project you need help with, are looking for work, or simply want to collaborate with other people, feel free to select a role in the 'GET STARTED sections below to give people a better idea of your skills. If you feel none of the roles fit you, you can reach out to a moderator about creating one that will. 
+#### If you have a project you need help with, are looking for work, or simply want to collaborate with other people on new projects, feel free to select a role in the 'GET STARTED sections below to give people a better idea of your skills. If you feel none of the roles fit you, you can reach out to a moderator about creating one that will. 
 
 ## :question:**PURPOSE**:question: 
 ---
@@ -16,5 +16,11 @@
 #### This project’s primary goal is to offer assistance and resources in areas such as product, management, funding, cross-promotion, partner acquisition, digital rights management, monetization/sales, and audience development" in exchange for work, collaborative contributions, donations and volunteering, proposing and auditioning. 
 
 ## GET **STARTED**
+---
 
-## 🔘[Propose a Session](https://github.com/The-Sessions-Network/Sessions/issues/new)
+### Have a project you want to propose?
+#### 🔘[Propose a Session](https://github.com/The-Sessions-Network/Sessions/issues/new)
+
+## New and want to learn more?
+#### 🔘[Join the 'Discord' community](http://bit.ly/Sessions-Discord)
+
