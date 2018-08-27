@@ -7,6 +7,7 @@ If you have a project you need help with, are looking for work, or simply want t
 
 :question: PURPOSE :question: 
 —————————
+
 The purpose of this project is to coordinate pools of talent and resources for teams developing new projects called “Sessions”. 
 
 ‘Sessions’ are open collaborative projects curated, funded and developed by the community. You can propose a new development Sessions on our Github: . 
